@@ -3462,24 +3462,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ravi.ramani\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ravi Ramani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
-      "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\obj\\",
+      "projectPath": "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+      "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\BulkyWeb\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3487,7 +3482,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3540,7 +3534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
