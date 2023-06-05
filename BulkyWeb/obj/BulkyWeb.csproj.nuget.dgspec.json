@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
               },
-              "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj"
+              "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
@@ -78,21 +83,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
-        "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BulkyWeb\\Bulky.Models\\obj\\",
+        "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,6 +109,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -149,21 +159,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
-        "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\obj\\",
+        "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -171,6 +185,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -220,21 +235,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "C:\\Projects\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
-        "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BulkyWeb\\BulkyWeb\\obj\\",
+        "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,14 +261,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-                "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+              "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
               }
             }
           }
@@ -277,6 +297,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
             }
           },
           "imports": [
@@ -298,7 +322,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

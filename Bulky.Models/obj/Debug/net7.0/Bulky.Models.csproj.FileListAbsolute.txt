@@ -12,3 +12,17 @@ C:\Projects\BulkyWeb\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
 C:\Projects\BulkyWeb\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
 C:\Projects\BulkyWeb\Bulky.Models\obj\Debug\net7.0\Bulky.Models.genruntimeconfig.cache
 C:\Projects\BulkyWeb\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.runtimeconfig.json
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.genruntimeconfig.cache
+C:\Users\ravi.ramani\source\repos\MVC\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll

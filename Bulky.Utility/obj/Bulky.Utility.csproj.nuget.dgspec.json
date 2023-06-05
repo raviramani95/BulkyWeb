@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {}
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
-        "packagesPath": "C:\\Users\\Ravi Ramani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BulkyWeb\\Bulky.Utility\\obj\\",
+        "projectPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "packagesPath": "C:\\Users\\ravi.ramani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravi.ramani\\source\\repos\\MVC\\Bulky\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravi.ramani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://advanced-592311462240.d.codeartifact.eu-west-2.amazonaws.com/nuget/innovation-dev/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
