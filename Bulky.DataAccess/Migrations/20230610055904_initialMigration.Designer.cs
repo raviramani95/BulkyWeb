@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bulky.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230603065614_initialMigration")]
+    [Migration("20230610055904_initialMigration")]
     partial class initialMigration
     {
         /// <inheritdoc />
