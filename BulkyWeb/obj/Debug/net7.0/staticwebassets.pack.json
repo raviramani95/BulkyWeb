@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Projects\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\035e1fe0-4006-4428-a55e-adab6b10ae5d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\035e1fe0-4006-4428-a55e-adab6b10ae5d.jpg"
+    },
+    {
       "Id": "C:\\Projects\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
